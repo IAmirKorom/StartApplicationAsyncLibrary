@@ -1,9 +1,9 @@
  using Earth;
  
->> Hello World!
+'>>' Hello World!
 
-In short: {This is a library in nuget for make development easily in asp.net}
------------------------------------------------------------------
+>> In short: {This is a library in nuget for make development easily in asp.net}
+
 
 Use this code instead "app.run":
 -----
