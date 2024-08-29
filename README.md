@@ -13,4 +13,5 @@ Use this code instead "app.run":
 `````using StartApplicationAsyncLibrary;`````
 
 `````var startApplicationAsync = new StartApplicationAsyncLibraryHelper(() => app.RunAsync(), builder.Configuration);`````
+
 `````await startApplicationAsync.StartAsync();`````
