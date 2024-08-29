@@ -1,0 +1,12 @@
+C:\Users\ADMIN\Desktop\deckstop\StartAppBrowser\bin\Release\net8.0\StartApplicationAsyncLibrary.deps.json
+C:\Users\ADMIN\Desktop\deckstop\StartAppBrowser\bin\Release\net8.0\StartApplicationAsyncLibrary.dll
+C:\Users\ADMIN\Desktop\deckstop\StartAppBrowser\bin\Release\net8.0\StartApplicationAsyncLibrary.pdb
+C:\Users\ADMIN\Desktop\deckstop\StartAppBrowser\obj\Release\net8.0\StartApplicationAsyncLibrary.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\deckstop\StartAppBrowser\obj\Release\net8.0\StartApplicationAsyncLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\deckstop\StartAppBrowser\obj\Release\net8.0\StartApplicationAsyncLibrary.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\deckstop\StartAppBrowser\obj\Release\net8.0\StartApplicationAsyncLibrary.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\deckstop\StartAppBrowser\obj\Release\net8.0\StartApplicationAsyncLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\deckstop\StartAppBrowser\obj\Release\net8.0\StartApplicationAsyncLibrary.dll
+C:\Users\ADMIN\Desktop\deckstop\StartAppBrowser\obj\Release\net8.0\refint\StartApplicationAsyncLibrary.dll
+C:\Users\ADMIN\Desktop\deckstop\StartAppBrowser\obj\Release\net8.0\StartApplicationAsyncLibrary.pdb
+C:\Users\ADMIN\Desktop\deckstop\StartAppBrowser\obj\Release\net8.0\ref\StartApplicationAsyncLibrary.dll
