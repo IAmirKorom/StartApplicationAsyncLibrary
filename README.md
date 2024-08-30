@@ -12,8 +12,8 @@ Installation:
 
 Use this code instead "app.run":
 -----
-`````using StartApplicationAsyncLibrary;`````
+`````using StartApplicationAsync;`````
 
-`````var startApplicationAsync = new StartApplicationAsyncLibraryHelper(() => app.RunAsync(), builder.Configuration);`````
+`````var startApplicationAsync = new StartApplicationAsyncHelper(() => app.RunAsync(), builder.Configuration);`````
 
 `````await startApplicationAsync.StartAsync();`````
